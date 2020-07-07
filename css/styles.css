@@ -10165,11 +10165,11 @@ section.resume-section .resume-section-content {
   cursor: pointer;
 }
 .contact-btn{
-  border: 1px solid #379683;
+  border: 1px solid #DAA520;
 }
 .down-cv{
-  border: 1px solid #379683;
-  background-color: #379683;
+  border: 1px solid #DAA520;
+  background-color: #DAA520;
 }
 .text-container a:hover{
   color: #000000;
