@@ -67,7 +67,6 @@ body {
   color: #212529;
   text-align: left;
   background-color: #fff;
-  text-align: justify ;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -7513,6 +7512,7 @@ button.bg-dark:focus {
 
 .mb-0,
 .my-0 {
+  text-emphasis: justify;
   margin-bottom: 0 !important;
 }
 
@@ -10026,6 +10026,7 @@ h1 {
 }
 
 p.lead {
+  text-align: justify;
   font-size: 1.15rem;
   font-weight: 400;
 }
@@ -10147,7 +10148,7 @@ section.resume-section .resume-section-content {
   position: fixed;
   align-items: center;
   bottom: 0;
-  padding-left: 15%;
+  padding-left: 7%;
 }
 .text-container a{
   text-decoration: none;
