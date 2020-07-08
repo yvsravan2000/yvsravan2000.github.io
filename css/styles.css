@@ -10086,6 +10086,7 @@ p.lead {
     display: block;
   }
 }
+
 .social-icons .social-icon {
   display: inline-flex;
   align-items: center;
@@ -10148,18 +10149,15 @@ section.resume-section .resume-section-content {
   position: fixed;
   align-items: center;
   bottom: 0;
-  padding-left: 8%;
+  text-align: center;
 }
 .text-container a{
   text-decoration: none;
   color: #000000;
-  margin: 10px;
   padding: 10px;
-  width: 130px;
-  height: 42px;
   border-radius: 10px;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 12px;
   outline: none;
   margin: 0px 10px;
   cursor: pointer;
@@ -10174,6 +10172,5 @@ section.resume-section .resume-section-content {
 .text-container a:hover{
   color: #000000;
   user-select: none;
-  transform: scale(10%);
-  padding: 11px;
+  padding: 10.5px;
 }
