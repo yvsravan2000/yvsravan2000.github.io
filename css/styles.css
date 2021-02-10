@@ -10104,9 +10104,12 @@ p.lead {
 }
 .social-icons .social-icon:hover {
   background-color: #05386b;
+  transition-duration: 250ms;
+  transform: scale(1.1);
 }
 .social-icons:active .social-icon:active {
-  transform: scale(1.1);
+  transform: scale(0.7);
+  transition-duration: 200ms;
 }
 
 .dev-icons {
