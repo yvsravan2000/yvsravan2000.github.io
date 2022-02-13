@@ -10147,7 +10147,7 @@ section.resume-section .resume-section-content {
 .text-container{
   width: 100%;
   padding: 20px;
-  backdrop-filter: blur(20px);
+  backdrop-filter: blur(8px);
   z-index: 9999;
   position: fixed;
   align-items: center;
